@@ -1,0 +1,19 @@
+PHP
+https://www.php.net 
+
+Hypertext Preprocessorを再帰的に略したもの
+Web開発に適した言語であり、HTMLに埋め込む形で使用することができる。
+<?php~?>でphpモードに切り替え処理を行うことができる。
+例：
+<!DOCTYPE html>
+<html>
+～～～～～～～～
+<?php echo “Hello world”; ?> //ここがその処理となる。Hello worldと出力される。
+
+PHPの起源として、開発者のラスマス・ラードフが開発していたCGIプログラムの
+Personal Home Page Tools(PHP Tools)であり、その後アップデートを重ね、現在の文法の基礎が確立したのがPHP3。そして、幾度かの大幅なバージョンアップを経て現在に至る。
+PHP３になった際にHypertext Preprocessorとなった。
+
+ダウンロード
+http://www.php.net/downloads
+
