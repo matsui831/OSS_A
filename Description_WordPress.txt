@@ -17,3 +17,5 @@ GPLv2
  https://ja.wordpress.org/download/source/
 Subversion https://core.svn.wordpress.org/
 Git https://github.com/WordPress/WordPress
+
+追記のテキストです。
