@@ -1,0 +1,14 @@
+https://www.mysql.com/jp/
+MySQLは世界で最も多く使用されているオープンソース・データベースです。MySQLは、大規模なWebサイトやISV、OEM、VARのお客様、大企業など様々な環境においてハイパフォーマンスでスケーラブルなデータベース・アプリケーションの構築をお手伝いする製品です。
+開発者：Michael Widenius（ミカエル・ウィデニウス）氏
+（1995年）に『MySQL AB』が設立されました。
+ 1996年「Linux版」リリース、1998年「Windows版」リリースがされました。2001年になるとMySQL AB社のCEOが『Marten Gustaf Mickos（マルテン・グスタフ・ミコス）氏』となり、これがオープンソース化のキッカケとなって世の中へと一気に普及する形となります。2008年になるとサンマイクロシステムズ社によってMySQL AB社は買収されます。
+ 　2010年にはオラクル社によってサンマイクロシステムズ社の買収が行われ、MySQLはオラクルの所有・管理となりました。
+https://www.mysql.com/jp/about/legal/
+MySQLデュアルライセンス
+オラクルは、MySQLデータベースサーバおよびMySQLクライアントライブラリをOEM、ISVおよびVARなどの販売業者とオープンソースプロジェクトのどちらの開発および販売ニーズにも合致することを目的としています。
+https://github.com/mysql/mysql-server
+
+GitHubGitHub
+GitHub - mysql/mysql-server: MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+MySQL Server, the world&#39;s most popular open source database, and MySQL Cluster, a real-time, open source transactional database. - GitHub - mysql/mysql-server: MySQL Server, the world&#39;s mos... (85 kB)
