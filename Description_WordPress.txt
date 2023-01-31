@@ -1,0 +1,19 @@
+１）	サイトの場所（英語、日本語） 
+Webvar https://wordpress.com/
+Appvar https://ja.wordpress.org/
+
+２）	製品の機能概要、特徴 
+WordPressとはCMS（コンテンツマネジメントシステム）と呼ばれるシステムの一種で、専門知識がなくてもwebサイトを制作することや、制作したコンテンツを一括管理・運用することができるシステムである。
+
+３）	沿革、初期の開発者 
+WordPressは、ブログソフトウェアb2/cafelogの開発者がその運営を廃止したことをきっかけに、Matt Mullenweg氏とMike Little氏によって創設・開発された。
+
+４）	利用許諾書、利用条件、配布条件（ライセンス） 
+GNU General Public License
+GPLv2
+全文のURL https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+５）ソースコードの場所
+ https://ja.wordpress.org/download/source/
+Subversion https://core.svn.wordpress.org/
+Git https://github.com/WordPress/WordPress
